@@ -1,0 +1,33 @@
+.box1{
+    border: 1px solid lightgray; 
+    height: 500px;
+    width: 590px;
+    border-radius: 12px;
+    background-color: springgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 50px;
+}
+.box1 h2{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 5px;
+}
+.box1 p{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.box1 button{
+    background-color: whitesmoke;
+    border: none;
+    font-size: 15px;
+    padding: 10px 25px;
+    font-weight: 562;
+    border-radius: 45px;
+}
+.box1 button:hover{
+    background-color: lightgray;
+}
+
